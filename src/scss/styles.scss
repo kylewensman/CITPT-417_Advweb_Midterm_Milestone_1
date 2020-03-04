@@ -1,5 +1,13 @@
-$bg-color: red; 
-
 body {
-    background: $bg-color;
+  width: 80%;
+  margin: 0 auto;
+}
+.navbar{
+  background-color: #108773;
+}
+.nav-item{
+  background-color: #E8CB18;
+  padding: 2px 5px 2px 5px;
+  margin-left: 12px;
+  font-size: 1.1em;
 }
